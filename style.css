@@ -1,0 +1,24 @@
+img {
+    max-height: 500px;
+    vertical-align: middle;
+}
+.imgCap {
+    font-style: italic;
+    color: cadetblue;
+}
+
+.headerCap {
+    color: cadetblue;
+    font-style: italic;
+    text-align: center;
+    font-family: Noteworthy;
+}
+
+.secondHeaderCap {
+    color: cadetblue;
+    font-style: italic;
+    font-family: Noteworthy;
+}
+ .photoBox {
+     text-align: left;
+ }
