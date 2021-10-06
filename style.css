@@ -8,17 +8,41 @@ img {
 }
 
 .headerCap {
-    color: cadetblue;
+
+    color: skyblue;
     font-style: italic;
     text-align: center;
-    font-family: Noteworthy;
+    font-family: "Droid Sans";
 }
 
 .secondHeaderCap {
-    color: cadetblue;
+    color: skyblue;
     font-style: italic;
-    font-family: Noteworthy;
+    font-family: "Droid Sans";
+    text-align: center;
 }
  .photoBox {
-     text-align: left;
+     text-align: center;
+ }
+
+.facts {
+    color: skyblue;
+    text-align: center;
+    font-family: "Droid Sans";
+
+}
+
+ body {
+     background-image: url("images/abstract1b.png");
+ }
+
+ ul{
+     color: aliceblue;
+     list-style-position: inside;
+ }
+
+ ul:hover {
+     color: cyan;
+     list-style-position: inside;
+     text-align: center;
  }
